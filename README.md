@@ -17,3 +17,4 @@ Here is explode history(last 3).
 - `2020-11-18 09:11:03` Shawn.xia was late and unhappy, boom!
 - `2022-02-28 11:28:03` Alec.ji didn't want to learn, it was uncomfortable, boom!
 - `2022-11-17 10:04:30` Alec.ji didn't want to work, boom!
+- `2023-07-06 14:26:07` Everyone is unhappy, boom!
